@@ -41,7 +41,6 @@ const displayAverageSalary = function(employeesArray) {
   const averageSalary = totalSalary / numEmployee
 
   console.log(`The average employee salary between our ${numEmployee} employee(s) is $${averageSalary.toFixed(2)}`)
-
 }
 }
 
